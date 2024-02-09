@@ -8,8 +8,7 @@ Based on https://github.com/flashbots/mev-boost-relay (at commit d8a0d7bdb5d1356
 - mev-boost-relay/common/types_spec.go
 
 Things you can do with this app:
-- Check if you generated submissions are properly generated
-- Record a  submissions to compare it latter with another one.
+- Check if your generated submissions are properly parsed.
+- Record a submissions to compare it latter with another one.
     Eg: Record a json submission and checks if the same submission using ssz matches.
-    
-- Ignore the app and continue with your life
+- Ignore it and continue with your life.
